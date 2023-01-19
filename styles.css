@@ -1,4 +1,9 @@
 button{
+	background-color: black;
+	font-color: white ;
+	border-radius: 5px;
+}
+button:hover{
 	background-color: yellow;
 	font-color: black;
 	border-radius: 30px;
